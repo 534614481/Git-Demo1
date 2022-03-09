@@ -1,1 +1,5 @@
-Public class Test{}
+Public class Test{
+public void doTest(){}
+
+
+}
