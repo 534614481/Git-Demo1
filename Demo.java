@@ -1,1 +1,4 @@
-Public class Demo{}
+Public class Demo{
+public void doProces(){}
+
+}
